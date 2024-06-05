@@ -35,4 +35,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Cool Links and Referrences
 
 [1]  [Defects location for metal surface](https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location/data)
+
 [2]  [Quantization for Neural Networks - Lei Mao](https://leimao.github.io/article/Neural-Networks-Quantization/)
